@@ -16,7 +16,7 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✨️Dev✨️", url="https://t.me/alvaa_Robot")
+                        "✨️Dev✨️", url="https://t.me/Lord_of_Desire")
                   ],[
                     InlineKeyboardButton(
                         "🔥Bot Project🔥", url="https://t.me/danger_bots"
