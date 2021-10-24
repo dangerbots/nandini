@@ -74,9 +74,10 @@ python3 main.py # Run the bot
 ```
 
 ###  🔥Credits🔥
+- [Anonymous么kid](http://t.me/danger_of_telegram): pro kid❣️
 - [Asmodeus](http://t.me/lord_of_Desire): Dev✨️
 - [DangerBots](https://t.me/danger_bots) Our Bot Project🔥
-- [Olivia](https://t.me/Olivia_Music_Robot) Music Bot🎶
+- [alvaro](https://t.me/alvaro_Robot) pro_dev
 
 ### ⚡️Support & Updates⚡️
 <a href="https://t.me/dangerbots"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Team_Satanz_Fed"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
