@@ -1,4 +1,4 @@
-<h2 align="centre">🎶NANCY V1🎵</h2>
+<h2 align="centre">🎶NANCYV1🎵</h2>
 
 <p align="center">
   <img src="https://telegra.ph/file/b820b4247cb3451ddd7e9.jpg">
@@ -54,7 +54,7 @@
 ## Heroku Deployment💎
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sulthanalibai/NANCY V1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sulthanalibai/NANCYV1)
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
 
@@ -74,7 +74,7 @@ python3 main.py # Run the bot
 ```
 
 ###  🔥Credits🔥
-- [Einstein Alvaro](http://t.me/alvaa_Robot): Dev✨️
+- [Einstein Alvaro](http://t.me/lord_of_Desire): Dev✨️
 - [DangerBots](https://t.me/danger_bots) Our Bot Project🔥
 - [Olivia](https://t.me/Olivia_Music_Robot) Music Bot🎶
 
