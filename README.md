@@ -47,7 +47,7 @@
 
 #### Admins Only👾 
 - `/pause` - pause song play🔊
-- `/resume` - resume song play🔈
+- `/resume` - resume song play
 - `/skip` - play next song🎼
 - `/end` - stop music play🔇
 
@@ -74,7 +74,7 @@ python3 main.py # Run the bot
 ```
 
 ###  🔥Credits🔥
-- [Einstein Alvaro](http://t.me/lord_of_Desire): Dev✨️
+- [Asmodeus](http://t.me/lord_of_Desire): Dev✨️
 - [DangerBots](https://t.me/danger_bots) Our Bot Project🔥
 - [Olivia](https://t.me/Olivia_Music_Robot) Music Bot🎶
 
