@@ -16,7 +16,7 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "ADD『♫•𝑁𝐴𝑁𝐷𝐼𝑁𝐼•♫』TO YOUR GROUP", url="https://t.me/Lord_of_Desire")
+                        "ADD『♫•𝑁𝐴𝑁𝐷𝐼𝑁𝐼•♫』TO YOUR GROUP", url="https://t.me/LadyNandini_bot?startgroup=true")
                   ],
        
       
