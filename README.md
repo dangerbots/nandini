@@ -75,7 +75,7 @@ python3 main.py # Run the bot
 
 ###  🔥Credits🔥
 - [Anonymous么kid](http://t.me/danger_of_telegram): pro kid❣️
-- [Asmodeus](http://t.me/lord_of_Desire): Dev✨️
+- [Aloha.](http://t.me/Qalbeyy): Dev✨️
 - [DangerBots](https://t.me/danger_bots) Our Bot Project🔥
 - [alvaro](https://t.me/alvaro_Robot) pro_dev
 
