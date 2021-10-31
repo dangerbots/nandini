@@ -16,18 +16,10 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✨️Dev✨️", url="https://t.me/Lord_of_Desire")
-                  ],[
-                    InlineKeyboardButton(
-                        "🔥Bot Project🔥", url="https://t.me/danger_bots"
-                    ),
-                    InlineKeyboardButton(
-                        "⚡️Support⚡️", url="https://t.me/dangerbots"
-                    )
-                ],[ 
-                    InlineKeyboardButton(
-                        "🍀Chatting Group🍀", url="https://t.me/nammude_keralam"
-                    )]
+                        "ADD『♫•𝑁𝐴𝑁𝐷𝐼𝑁𝐼•♫』TO YOUR GROUP", url="https://t.me/Lord_of_Desire")
+                  ],
+       
+      
             ]
         ),
      disable_web_page_preview=True
